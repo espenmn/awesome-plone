@@ -34,8 +34,8 @@ _Products and resources that helps developers and users to manage site layouts._
 * Site/pages layout managers
 
 * [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) - Powerful editor that allows users to compose the content of a page with different blocks.
-* [collective.themeingfragments] (https://github.com/collective/collective.themefragments) - with this add on and plone.app.mosaic you don't need to write diazo rules anymore
-* medialog.markdown (https://github.com/espenmn/medialog.markdown) - A markdown editor with live preview and bling
+* [collective.themeingfragments](https://github.com/collective/collective.themefragments) - with this add on and plone.app.mosaic you don't need to write diazo rules anymore
+* [medialog.markdown](https://github.com/espenmn/medialog.markdown) - A markdown editor with live preview and bling
 
 
 
