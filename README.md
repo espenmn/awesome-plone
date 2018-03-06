@@ -37,12 +37,15 @@ _Products and resources that helps developers and users to manage site layouts._
 * [collective.themeingfragments] (https://github.com/collective/collective.themefragments) - with this add on and plone.app.mosaic you don't need to write diazo rules anymore
 * medialog.markdown (https://github.com/espenmn/medialog.markdown) - A markdown editor with live preview and bling
 
-* Tiles
+
+
+## Tiles
 
 * [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * With collective.themingfragment 's 'fragment tile' you can do most of what you want.
 
-* Views and utils
+## Views and utils
+
 * [medialog.iconpicker](https://github.com/RedTurtle/collective.slick) - Add slick carousel to Plone resources.
 * pp.client-plone make proper PDFs from Plone.
 * [webcouturier.dropdownmenu](https://github.com/collective/webcouturier.dropdownmenu) - Dropdown menus for Plone
@@ -52,8 +55,7 @@ _Products and resources that helps developers and users to manage site layouts._
 
 _A set of themes developed by the community and ready-to-use._
 
-* [collective.multitheme](https://github.com/collective/collective.multitheme) - Very Customizable theme packed with fragment tiles. The only theme you need if you are not making your own..
-
+* [collective.multitheme](https://github.com/collective/collective.multitheme) - A Very Customizable theme packed with fragment tiles. The only theme you need if you are not making your own.. The author could need some help to get this out of beta :)
 
 
 
@@ -83,8 +85,6 @@ _Because Plone has also a lot of good official resources where find infos_
 * [community.plone.org](https://community.plone.org/) - Official community forum.
 * [docs.plone.org](https://docs.plone.org/) - Official documentation for developers/integrators.
 * [plone.api](https://docs.plone.org/develop/plone.api/docs/index.html) - Documentation for plone.api.
-* [slack channel](https://plone.slack.com) - Official slack channel.
-* [gitter channel](https://gitter.im/plone/home) - Official gitter channel.
 * #plone irc channel.
 
 ## License
